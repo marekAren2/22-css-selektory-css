@@ -12,6 +12,7 @@ h3 {
   background-color: yellow;
 }
 
+/* selektor bliskiego rodzenstwa - Adjacent sibling combinator */
 h1+h3 {
   color: red;
 }
