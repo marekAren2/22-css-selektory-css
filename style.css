@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+p {
+  color: blue;
+}
+
+h1,
+h3 {
+  background-color: yellow;
+}
+
+h1+h3 {
+  color: red;
+}
+
+/* body>h1 {
+    color: rgb(48, 211, 62)(0, 255, 21);
+} */
